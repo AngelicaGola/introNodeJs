@@ -1,0 +1,22 @@
+{
+  "name": "intro-node",
+  "version": "0.1.0",
+  "description": "my description",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AngelicaGola/introNodeJs.git"
+  },
+  "author": "Agola",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AngelicaGola/introNodeJs/issues"
+  },
+  "homepage": "https://github.com/AngelicaGola/introNodeJs#readme",
+  "dependencies": {
+    "axios": "^1.1.3"
+  }
+}
